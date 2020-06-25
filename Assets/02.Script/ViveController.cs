@@ -50,5 +50,7 @@ public class ViveController : MonoBehaviour
         {
             Debug.Log("TrackPad Click");
         }
+
+        
     }
 }
